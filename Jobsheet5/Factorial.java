@@ -8,6 +8,7 @@ public class Factorial {
         }
         return facto;
     }
+
     int factorialDC(int n){
         if(n==1){
             return 1;
